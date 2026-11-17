@@ -143,6 +143,47 @@ Este projeto foi desenvolvido como atividade prática de Estrutura de Dados 1, c
 
 O desenvolvimento das duas abordagens permite observar as diferenças entre construir uma estrutura de dados desde seus fundamentos e utilizar uma implementação pronta disponibilizada pela linguagem Java.
 
+
+---
+
+## Documentação técnica
+
+O projeto possui documentação específica para cada abordagem de implementação das listas encadeadas.
+
+### 1. Implementação manual
+
+[IMPLEMENTACAO-MANUAL.md](docs/IMPLEMENTACAO-MANUAL.md)
+
+Documenta a construção de uma lista simplesmente encadeada, incluindo:
+- Estrutura dos nós;
+- Referências entre elementos;
+- Controle de cabeça, cauda e tamanho;
+- Operações de inserção e remoção;
+- Busca e percurso;
+- Análise de complexidade computacional.
+
+### 2. Implementação com LinkedList
+
+[IMPLEMENTACAO-LINKEDLIST.md](docs/IMPLEMENTACAO-LINKEDLIST.md)
+
+Documenta a utilização da classe `LinkedList` da biblioteca padrão Java, incluindo:
+- Declaração e inicialização;
+- Operações de manipulação;
+- Consultas e percursos;
+- Características da estrutura;
+- Análise de desempenho.
+
+### 3. Análise comparativa
+
+[COMPARACAO.md](docs/COMPARACAO.md)
+
+Apresenta uma comparação entre as duas abordagens, considerando:
+- Organização interna das estruturas;
+- Complexidade computacional;
+- Desempenho das operações;
+- Vantagens e limitações;
+- Aplicabilidade de cada implementação.
+
 ---
 
 **Instituição:** Instituto Federal Goiano – Campus Morrinhos  
