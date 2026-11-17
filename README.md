@@ -131,6 +131,8 @@ mvn exec:java -Dexec.mainClass="br.edu.ifgoiano.gestaopedidoslanchonete.implemen
 
 ## Documentação técnica
 
+- [Estrutura do Projeto](docs/ESTRUTURA.md) — Organização dos diretórios, pacotes e classes.
+
 Os documentos complementares estão organizados na pasta `docs/`:
 
 - Implementação manual da lista encadeada.
